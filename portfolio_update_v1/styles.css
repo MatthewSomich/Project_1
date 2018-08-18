@@ -201,4 +201,36 @@ a.social:hover {
   }
 
 }
+.random{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  display: table;
+  margin: 10px auto;
 
+  /*Style for photo galery*/
+}
+h2{
+  padding-left: 7%;
+}
+.food{
+  height: 300px;
+  width:  300px;
+  padding-top: 5px;
+}
+
+
+#top{
+  margin-top: 75px;
+  padding-bottom: 8px;
+}
+.hline{
+  margin-top: 30px;
+}
+.animal{
+  height: 500px;
+  width: 500px;
+}
+.mid{
+  text-align: center;
+}

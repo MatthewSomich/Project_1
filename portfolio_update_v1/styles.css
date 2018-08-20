@@ -211,7 +211,8 @@ a.social:hover {
   /*Style for photo galery*/
 }
 h2{
-  padding-left: 7%;
+  text-align: center;
+
 }
 .food{
   height: 300px;
@@ -224,13 +225,46 @@ h2{
   margin-top: 75px;
   padding-bottom: 8px;
 }
+
 .hline{
   margin-top: 30px;
 }
+
 .animal{
   height: 500px;
   width: 500px;
 }
+
 .mid{
   text-align: center;
+}
+
+.sec_pic{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 3px solid #084180;
+  margin-left: 100px;
+ }
+
+ #cook{
+  margin-top: 30px;
+ }
+
+.card2{
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 95%;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  transition: all .5s;
+
+}
+.card2:hover {
+  border-color: #084180;
+}
+
+.bord{
+  border: 3px solid #084180;
 }

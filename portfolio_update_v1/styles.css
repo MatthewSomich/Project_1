@@ -30,6 +30,7 @@ a:hover {
   padding: 10px;
   position: fixed;
   text-align: center;
+  z-index: 1;
 }
 .nav {
   display: flex;
@@ -248,7 +249,7 @@ h2{
  }
 
  #cook{
-  margin-top: 30px;
+  margin-top: 40px;
  }
 
 .card2{
